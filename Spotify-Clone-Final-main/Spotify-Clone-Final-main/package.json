@@ -1,0 +1,15 @@
+{
+  "name": "spotify-clone-final-main",
+  "version": "1.0.0",
+  "description": "Music Platform Overview The Music Platform is a modern web application built with React. It allows users to explore music tracks, view details about albums and artists, and stream songs. The platform integrates with the Audius API for seamless access to a vast collection of music. With a clean and responsive design, the app provides an engaging user experience across all devices. Features Browse Tracks: Explore a wide collection of music tracks with their titles, albums, and artists. Track Details: View detailed information about individual tracks, including album and artist data. Music Streaming: Play music directly within the application. Search Functionality: Search for tracks, albums, or artists using keywords. Responsive Design: Fully optimized for desktop and mobile devices. Technologies Used React: Framework for building the frontend user interface. React Router: Handles navigation between pages. Context API: Manages user state and global app data. Tailwind CSS: Ensures modern and responsive styling. Deezer API: Fetches music data, including tracks, albums, and artist details. Getting Started Follow these steps to set up and run the project locally.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "spotify-clone-final-main": "file:"
+  }
+}
